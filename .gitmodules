@@ -1,0 +1,9 @@
+[submodule "soot/soot"]
+	path = soot/soot
+	url = https://github.com/Sable/soot
+[submodule "soot/soot-infoflow"]
+	path = soot/soot-infoflow
+	url = https://github.com/secure-software-engineering/soot-infoflow
+[submodule "soot/soot-infoflow-android"]
+	path = soot/soot-infoflow-android
+	url = https://github.com/secure-software-engineering/soot-infoflow-android
